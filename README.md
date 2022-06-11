@@ -1,7 +1,7 @@
 # JavaStudy
-##Essencial java programming.
+## Essencial java programming.
 
-###Basic concepts Java Programming.
+### Basic concepts Java Programming.
 
 - Classes
 - Encapsulation 
